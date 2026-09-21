@@ -1,19 +1,23 @@
-#  Hi 👋, I'm Sakshi
 
-### 💻 B.Tech IT Student | DSA & Web Development
+<h1 align="center">Hi 👋, I'm Sakshi</h1>
 
-I'm a passionate Information Technology student interested in
-Data Structures & Algorithms, Web Development and Software Development.
+<h3 align="center">
+  B.Tech IT Student | DSA | Web Development
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sakshi25-web&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-- 🎓 B.Tech in Information Technology
+- 🎓 B.Tech Information Technology student
 - 💻 Currently learning Data Structures & Algorithms
-- 🌐 Learning React and Web Development
-- 🧠 Practicing problems on LeetCode
+- 🌐 Learning Web Development
 - 🚀 Building projects to improve my development skills
+- 🧠 Practicing coding problems regularly
 - 📚 Always learning something new
 
 ---
@@ -22,35 +26,61 @@ Data Structures & Algorithms, Web Development and Software Development.
 
 - 📊 DSA Visualizer
 - 📈 DSA Progress Tracker
-- 🌐 Web Development Projects
+- 🌐 React & Web Development Projects
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Languages & Tools
 
-### Languages
-C++ • Java • Python • JavaScript • HTML • CSS • SQL
-
-### Tools
-Git • GitHub • VS Code • React • Node.js
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,react,nodejs,git,github,vscode" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 📊 GitHub Stats
 
-### 🔹 DSA Visualizer
-Interactive visualization of data structures and algorithms.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshi25-web&show_icons=true&theme=tokyonight" />
+</p>
 
-### 🔹 DSA Progress Tracker
-A React-based application for tracking DSA problem-solving progress.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi25-web&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 🔥 GitHub Streak
 
-- GitHub -- https://github.com/sakshi25-web
-- LinkedIn -- www.linkedin.com/in/sakshi-shrivastav-479334332
-- LeetCode -- https://leetcode.com/u/saku_2006/
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sakshi25-web&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| 📊 DSA Visualizer | Visualize data structures and algorithms |
+| 📈 DSA Progress Tracker | Track DSA problems and progress |
+| 🌐 Portfolio | Personal portfolio website |
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" width="40"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+</a>
+
+</p>
 
 ---
 
