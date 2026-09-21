@@ -1,4 +1,4 @@
-# <h1 align="center> Hi 👋, I'm Sakshi</h1>
+#  Hi 👋, I'm Sakshi
 
 ### 💻 B.Tech IT Student | DSA & Web Development
 
